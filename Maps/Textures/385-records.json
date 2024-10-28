@@ -1,0 +1,126 @@
+[
+    {
+        "Position": 146,
+        "OffsetX": 135,
+        "OffsetY": 75,
+        "Width": 52,
+        "Height": 110,
+        "Compression": 2304,
+        "RecordSize": 14260,
+        "DataOffset": 28,
+        "IsNormal": false,
+        "FrameCount": 4,
+        "Unknown1": 257,
+        "ScaleX": -70,
+        "ScaleY": -70,
+        "Frames": [
+            null,
+            null,
+            null,
+            null
+        ]
+    },
+    {
+        "Position": 14406,
+        "OffsetX": 122,
+        "OffsetY": 75,
+        "Width": 65,
+        "Height": 110,
+        "Compression": 2304,
+        "RecordSize": 12629,
+        "DataOffset": 28,
+        "IsNormal": false,
+        "FrameCount": 4,
+        "Unknown1": 257,
+        "ScaleX": -70,
+        "ScaleY": -70,
+        "Frames": [
+            null,
+            null,
+            null,
+            null
+        ]
+    },
+    {
+        "Position": 27035,
+        "OffsetX": 117,
+        "OffsetY": 75,
+        "Width": 71,
+        "Height": 110,
+        "Compression": 2304,
+        "RecordSize": 11053,
+        "DataOffset": 28,
+        "IsNormal": false,
+        "FrameCount": 4,
+        "Unknown1": 257,
+        "ScaleX": -70,
+        "ScaleY": -70,
+        "Frames": [
+            null,
+            null,
+            null,
+            null
+        ]
+    },
+    {
+        "Position": 38088,
+        "OffsetX": 123,
+        "OffsetY": 75,
+        "Width": 64,
+        "Height": 110,
+        "Compression": 2304,
+        "RecordSize": 12397,
+        "DataOffset": 28,
+        "IsNormal": false,
+        "FrameCount": 4,
+        "Unknown1": 257,
+        "ScaleX": -70,
+        "ScaleY": -70,
+        "Frames": [
+            null,
+            null,
+            null,
+            null
+        ]
+    },
+    {
+        "Position": 50485,
+        "OffsetX": 133,
+        "OffsetY": 75,
+        "Width": 52,
+        "Height": 109,
+        "Compression": 2304,
+        "RecordSize": 13831,
+        "DataOffset": 28,
+        "IsNormal": false,
+        "FrameCount": 4,
+        "Unknown1": 257,
+        "ScaleX": -70,
+        "ScaleY": -70,
+        "Frames": [
+            null,
+            null,
+            null,
+            null
+        ]
+    },
+    {
+        "Position": 64316,
+        "OffsetX": 136,
+        "OffsetY": 20,
+        "Width": 72,
+        "Height": 163,
+        "Compression": 2304,
+        "RecordSize": 15830,
+        "DataOffset": 28,
+        "IsNormal": false,
+        "FrameCount": 2,
+        "Unknown1": 71,
+        "ScaleX": -134,
+        "ScaleY": -134,
+        "Frames": [
+            null,
+            null
+        ]
+    }
+]

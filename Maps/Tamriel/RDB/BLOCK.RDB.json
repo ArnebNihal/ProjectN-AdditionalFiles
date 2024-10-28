@@ -1,0 +1,307 @@
+{
+    "Position": 0,
+    "Index": 0,
+    "Name": "BLOCK.RDB",
+    "Type": "Rdb",
+    "RmbBlock": {
+        "FldHeader": {
+            "NumBlockDataRecords": 0,
+            "NumMisc3dObjectRecords": 0,
+            "NumMiscFlatObjectRecords": 0,
+            "BlockPositions": null,
+            "BuildingDataList": null,
+            "BlockDataSizes": null,
+            "GroundData": {
+
+            },
+            "AutoMapData": null,
+            "Name": null,
+            "OtherNames": null
+        },
+        "SubRecords": null,
+        "Misc3dObjectRecords": null,
+        "MiscFlatObjectRecords": null
+    },
+    "RdbBlock": {
+        "ModelReferenceList": [
+            {
+                "ModelId": "63104",
+                "ModelIdNum": 63104,
+                "Description": "C29"
+            },
+            {
+                "ModelId": "63105",
+                "ModelIdNum": 63105,
+                "Description": "C29"
+            },
+            {
+                "ModelId": "55003",
+                "ModelIdNum": 55003,
+                "Description": "DOR"
+            }
+        ],
+        "ObjectRootList": [
+            {
+                "RdbObjects": [
+                    {
+                        "Position": 18897,
+                        "Index": 0,
+                        "XPos": 2,
+                        "YPos": -1280,
+                        "ZPos": 616,
+                        "Type": "Model",
+                        "Resources": {
+                            "ModelResource": {
+                                "XRotation": 0,
+                                "YRotation": -1536,
+                                "ZRotation": 0,
+                                "ModelIndex": 2,
+                                "TriggerFlag_StartingLock": 0,
+                                "SoundIndex": 0,
+                                "ActionResource": {
+                                    "Position": 0,
+                                    "Axis": 0,
+                                    "Duration": 0,
+                                    "Magnitude": 0,
+                                    "NextObjectOffset": 0,
+                                    "PreviousObjectOffset": -1,
+                                    "NextObjectIndex": -1,
+                                    "Flags": 0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Position": 18849,
+                        "Index": 1,
+                        "XPos": 616,
+                        "YPos": -1280,
+                        "ZPos": 2,
+                        "Type": "Model",
+                        "Resources": {
+                            "ModelResource": {
+                                "XRotation": 0,
+                                "YRotation": 0,
+                                "ZRotation": 0,
+                                "ModelIndex": 2,
+                                "TriggerFlag_StartingLock": 0,
+                                "SoundIndex": 0,
+                                "ActionResource": {
+                                    "Position": 0,
+                                    "Axis": 0,
+                                    "Duration": 0,
+                                    "Magnitude": 0,
+                                    "NextObjectOffset": 0,
+                                    "PreviousObjectOffset": -1,
+                                    "NextObjectIndex": -1,
+                                    "Flags": 0
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "RdbObjects": [
+                    {
+                        "Position": 18801,
+                        "Index": 0,
+                        "XPos": 1384,
+                        "YPos": -512,
+                        "ZPos": 2,
+                        "Type": "Model",
+                        "Resources": {
+                            "ModelResource": {
+                                "XRotation": 0,
+                                "YRotation": 0,
+                                "ZRotation": 0,
+                                "ModelIndex": 2,
+                                "TriggerFlag_StartingLock": 0,
+                                "SoundIndex": 0,
+                                "ActionResource": {
+                                    "Position": 0,
+                                    "Axis": 0,
+                                    "Duration": 0,
+                                    "Magnitude": 0,
+                                    "NextObjectOffset": 0,
+                                    "PreviousObjectOffset": -1,
+                                    "NextObjectIndex": -1,
+                                    "Flags": 0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Position": 11399,
+                        "Index": 1,
+                        "XPos": 1984,
+                        "YPos": -1280,
+                        "ZPos": 704,
+                        "Type": "Model",
+                        "Resources": {
+                            "ModelResource": {
+                                "XRotation": 0,
+                                "YRotation": 0,
+                                "ZRotation": 0,
+                                "ModelIndex": 1,
+                                "TriggerFlag_StartingLock": 0,
+                                "SoundIndex": 0,
+                                "ActionResource": {
+                                    "Position": 0,
+                                    "Axis": 0,
+                                    "Duration": 0,
+                                    "Magnitude": 0,
+                                    "NextObjectOffset": 0,
+                                    "PreviousObjectOffset": -1,
+                                    "NextObjectIndex": -1,
+                                    "Flags": 0
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "RdbObjects": [
+                    {
+                        "Position": 18945,
+                        "Index": 0,
+                        "XPos": 2,
+                        "YPos": -512,
+                        "ZPos": 1384,
+                        "Type": "Model",
+                        "Resources": {
+                            "ModelResource": {
+                                "XRotation": 0,
+                                "YRotation": -1536,
+                                "ZRotation": 0,
+                                "ModelIndex": 2,
+                                "TriggerFlag_StartingLock": 0,
+                                "SoundIndex": 0,
+                                "ActionResource": {
+                                    "Position": 0,
+                                    "Axis": 0,
+                                    "Duration": 0,
+                                    "Magnitude": 0,
+                                    "NextObjectOffset": 0,
+                                    "PreviousObjectOffset": -1,
+                                    "NextObjectIndex": -1,
+                                    "Flags": 0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Position": 11447,
+                        "Index": 1,
+                        "XPos": 704,
+                        "YPos": -1280,
+                        "ZPos": 1856,
+                        "Type": "Model",
+                        "Resources": {
+                            "ModelResource": {
+                                "XRotation": 0,
+                                "YRotation": -512,
+                                "ZRotation": 0,
+                                "ModelIndex": 0,
+                                "TriggerFlag_StartingLock": 0,
+                                "SoundIndex": 0,
+                                "ActionResource": {
+                                    "Position": 0,
+                                    "Axis": 0,
+                                    "Duration": 0,
+                                    "Magnitude": 0,
+                                    "NextObjectOffset": 0,
+                                    "PreviousObjectOffset": -1,
+                                    "NextObjectIndex": -1,
+                                    "Flags": 0
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "RdbObjects": [
+                    {
+                        "Position": 11232,
+                        "Index": 0,
+                        "XPos": 1344,
+                        "YPos": -512,
+                        "ZPos": 1984,
+                        "Type": "Model",
+                        "Resources": {
+                            "ModelResource": {
+                                "XRotation": 0,
+                                "YRotation": -1536,
+                                "ZRotation": 0,
+                                "ModelIndex": 1,
+                                "TriggerFlag_StartingLock": 0,
+                                "SoundIndex": 0,
+                                "ActionResource": {
+                                    "Position": 0,
+                                    "Axis": 0,
+                                    "Duration": 0,
+                                    "Magnitude": 0,
+                                    "NextObjectOffset": 0,
+                                    "PreviousObjectOffset": -1,
+                                    "NextObjectIndex": -1,
+                                    "Flags": 0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Position": 11136,
+                        "Index": 1,
+                        "XPos": 1856,
+                        "YPos": -512,
+                        "ZPos": 1344,
+                        "Type": "Model",
+                        "Resources": {
+                            "ModelResource": {
+                                "XRotation": 0,
+                                "YRotation": -1024,
+                                "ZRotation": 0,
+                                "ModelIndex": 0,
+                                "TriggerFlag_StartingLock": 0,
+                                "SoundIndex": 0,
+                                "ActionResource": {
+                                    "Position": 0,
+                                    "Axis": 0,
+                                    "Duration": 0,
+                                    "Magnitude": 0,
+                                    "NextObjectOffset": 0,
+                                    "PreviousObjectOffset": -1,
+                                    "NextObjectIndex": -1,
+                                    "Flags": 0
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            }
+        ]
+    },
+    "RdiBlock": {
+        "Data": null
+    }
+}

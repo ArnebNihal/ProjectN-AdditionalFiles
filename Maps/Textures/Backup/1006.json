@@ -1,0 +1,169 @@
+{
+    "fileHeader": {
+        "Position": 0,
+        "RecordCount": 6,
+        "Name": "Female Dark Elf B",
+        "TextureWidth": 901,
+        "TextureHeight": 506
+    },
+    "recordHeader": [
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        }
+    ],
+    "record": [
+        {
+            "Position": 0,
+            "OffsetX": 0,
+            "OffsetY": 68,
+            "Width": 64,
+            "Height": 159,
+            "Compression": 0,
+            "RecordSize": 952,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": 0,
+            "ScaleY": 0,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 42,
+            "OffsetY": 68,
+            "Width": 57,
+            "Height": 157,
+            "Compression": 0,
+            "RecordSize": 1820,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": 0,
+            "ScaleY": 0,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 106,
+            "OffsetY": 68,
+            "Width": 69,
+            "Height": 157,
+            "Compression": 0,
+            "RecordSize": 6583,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": 0,
+            "ScaleY": 0,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 201,
+            "OffsetY": 68,
+            "Width": 61,
+            "Height": 157,
+            "Compression": 0,
+            "RecordSize": 1540,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": 0,
+            "ScaleY": 0,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 201,
+            "OffsetY": 68,
+            "Width": 61,
+            "Height": 157,
+            "Compression": 0,
+            "RecordSize": 1540,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": 0,
+            "ScaleY": 0,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 201,
+            "OffsetY": 68,
+            "Width": 66,
+            "Height": 158,
+            "Compression": 0,
+            "RecordSize": 1540,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 2,
+            "Unknown1": 0,
+            "ScaleX": 0,
+            "ScaleY": 0,
+            "Frames": [
+                null
+            ]
+        }
+    ]
+}

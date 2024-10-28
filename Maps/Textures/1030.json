@@ -1,0 +1,839 @@
+{
+    "fileHeader": {
+        "Position": 0,
+        "RecordCount": 32,
+        "Name": "Maquis",
+        "TextureWidth": 901,
+        "TextureHeight": 506
+    },
+    "recordHeader": [
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },{
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },{
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },{
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },{
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },{
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },{
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        }
+    ],
+    "record": [
+        {
+            "Position": 0,
+            "OffsetX": 0,
+            "OffsetY": 68,
+            "Width": 42,
+            "Height": 22,
+            "Compression": 0,
+            "RecordSize": 952,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 42,
+            "OffsetY": 68,
+            "Width": 64,
+            "Height": 28,
+            "Compression": 0,
+            "RecordSize": 1820,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 106,
+            "OffsetY": 68,
+            "Width": 95,
+            "Height": 68,
+            "Compression": 0,
+            "RecordSize": 6583,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 256,
+            "ScaleY": 256,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 201,
+            "OffsetY": 68,
+            "Width": 36,
+            "Height": 42,
+            "Compression": 0,
+            "RecordSize": 1540,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 237,
+            "OffsetY": 68,
+            "Width": 39,
+            "Height": 31,
+            "Compression": 0,
+            "RecordSize": 1237,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 276,
+            "OffsetY": 68,
+            "Width": 36,
+            "Height": 35,
+            "Compression": 0,
+            "RecordSize": 1288,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 312,
+            "OffsetY": 68,
+            "Width": 25,
+            "Height": 22,
+            "Compression": 0,
+            "RecordSize": 578,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 337,
+            "OffsetY": 68,
+            "Width": 59,
+            "Height": 28,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 396,
+            "OffsetY": 68,
+            "Width": 62,
+            "Height": 34,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 458,
+            "OffsetY": 68,
+            "Width": 42,
+            "Height": 36,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 500,
+            "OffsetY": 68,
+            "Width": 90,
+            "Height": 47,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 590,
+            "OffsetY": 68,
+            "Width": 29,
+            "Height": 11,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 619,
+            "OffsetY": 68,
+            "Width": 43,
+            "Height": 20,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 662,
+            "OffsetY": 68,
+            "Width": 34,
+            "Height": 13,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 0,
+            "OffsetY": 210,
+            "Width": 15,
+            "Height": 32,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 27,
+            "OffsetY": 210,
+            "Width": 13,
+            "Height": 25,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 109,
+            "OffsetY": 210,
+            "Width": 82,
+            "Height": 43,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 206,
+            "OffsetY": 210,
+            "Width": 97,
+            "Height": 32,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 258,
+            "OffsetY": 210,
+            "Width": 52,
+            "Height": 19,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 283,
+            "OffsetY": 210,
+            "Width": 25,
+            "Height": 11,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 322,
+            "OffsetY": 210,
+            "Width": 90,
+            "Height": 219,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 256,
+            "ScaleY": 256,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 373,
+            "OffsetY": 210,
+            "Width": 134,
+            "Height": 95,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 256,
+            "ScaleY": 256,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 416,
+            "OffsetY": 210,
+            "Width": 115,
+            "Height": 272,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 256,
+            "ScaleY": 256,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 0,
+            "OffsetY": 506,
+            "Width": 113,
+            "Height": 296,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 256,
+            "ScaleY": 256,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 85,
+            "OffsetY": 506,
+            "Width": 130,
+            "Height": 153,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 256,
+            "ScaleY": 256,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 219,
+            "OffsetY": 506,
+            "Width": 112,
+            "Height": 106,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 256,
+            "ScaleY": 256,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 334,
+            "OffsetY": 506,
+            "Width": 115,
+            "Height": 111,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 256,
+            "ScaleY": 256,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 447,
+            "OffsetY": 506,
+            "Width": 97,
+            "Height": 95,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 256,
+            "ScaleY": 256,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 577,
+            "OffsetY": 506,
+            "Width": 51,
+            "Height": 142,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 256,
+            "ScaleY": 256,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 689,
+            "OffsetY": 506,
+            "Width": 39,
+            "Height": 123,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 256,
+            "ScaleY": 256,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 804,
+            "OffsetY": 506,
+            "Width": 43,
+            "Height": 53,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 256,
+            "ScaleY": 256,
+            "Frames": [
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 140,
+            "OffsetY": 140,
+            "Width": 63,
+            "Height": 47,
+            "Compression": 0,
+            "RecordSize": 32,
+            "DataOffset": 0,
+            "IsNormal": true,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 128,
+            "ScaleY": 128,
+            "Frames": [
+                null
+            ]
+        }
+    ]
+}

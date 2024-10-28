@@ -1,0 +1,185 @@
+{
+    "fileHeader": {
+        "Position": 0,
+        "RecordCount": 6,
+        "Name": "Female Breton Temperate Red-Yellow Blonde Cap",
+        "TextureWidth": 901,
+        "TextureHeight": 506
+    },
+    "recordHeader": [
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        }
+    ],
+    "record": [
+        {
+            "Position": 0,
+            "OffsetX": 0,
+            "OffsetY": 68,
+            "Width": 65,
+            "Height": 173,
+            "Compression": 0,
+            "RecordSize": 952,
+            "DataOffset": 0,
+            "IsNormal": false,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": -134,
+            "ScaleY": -134,
+            "Frames": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 42,
+            "OffsetY": 68,
+            "Width": 87,
+            "Height": 171,
+            "Compression": 0,
+            "RecordSize": 1820,
+            "DataOffset": 0,
+            "IsNormal": false,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": -133,
+            "ScaleY": -133,
+            "Frames": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 106,
+            "OffsetY": 68,
+            "Width": 113,
+            "Height": 171,
+            "Compression": 0,
+            "RecordSize": 6583,
+            "DataOffset": 0,
+            "IsNormal": false,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": -133,
+            "ScaleY": -133,
+            "Frames": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 201,
+            "OffsetY": 68,
+            "Width": 89,
+            "Height": 173,
+            "Compression": 0,
+            "RecordSize": 1540,
+            "DataOffset": 0,
+            "IsNormal": false,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": -133,
+            "ScaleY": -133,
+            "Frames": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 201,
+            "OffsetY": 68,
+            "Width": 62,
+            "Height": 174,
+            "Compression": 0,
+            "RecordSize": 1540,
+            "DataOffset": 0,
+            "IsNormal": false,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": -133,
+            "ScaleY": -133,
+            "Frames": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 201,
+            "OffsetY": 68,
+            "Width": 62,
+            "Height": 176,
+            "Compression": 0,
+            "RecordSize": 1540,
+            "DataOffset": 0,
+            "IsNormal": false,
+            "FrameCount": 2,
+            "Unknown1": 0,
+            "ScaleX": -133,
+            "ScaleY": -133,
+            "Frames": [
+                null,
+                null
+            ]
+        }
+    ]
+}

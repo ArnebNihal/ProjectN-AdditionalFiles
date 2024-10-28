@@ -1,0 +1,98 @@
+{
+    "Position": 0,
+    "Index": 0,
+    "Name": "BLANK.RDB",
+    "Type": "Rdb",
+    "RmbBlock": {
+        "FldHeader": {
+            "NumBlockDataRecords": 0,
+            "NumMisc3dObjectRecords": 0,
+            "NumMiscFlatObjectRecords": 0,
+            "BlockPositions": null,
+            "BuildingDataList": null,
+            "BlockDataSizes": null,
+            "GroundData": {
+
+            },
+            "AutoMapData": null,
+            "Name": null,
+            "OtherNames": null
+        },
+        "SubRecords": null,
+        "Misc3dObjectRecords": null,
+        "MiscFlatObjectRecords": null
+    },
+    "RdbBlock": {
+        "ModelReferenceList": [
+            {
+                "ModelId": "70300",
+                "ModelIdNum": 70300,
+                "Description": "MOD"
+            }
+        ],
+        "ObjectRootList": [
+            {
+                "RdbObjects": [
+                    {
+                        "Position": 94516,
+                        "Index": 0,
+                        "XPos": 0,
+                        "YPos": 0,
+                        "ZPos": 0,
+                        "Type": "Model",
+                        "Resources": {
+                            "ModelResource": {
+                                "XRotation": 0,
+                                "YRotation": 0,
+                                "ZRotation": 0,
+                                "ModelIndex": 0,
+                                "TriggerFlag_StartingLock": 0,
+                                "SoundIndex": 0,
+                                "ActionResource": {
+                                    "Position": 0,
+                                    "Axis": 0,
+                                    "Duration": 0,
+                                    "Magnitude": 0,
+                                    "NextObjectOffset": 0,
+                                    "PreviousObjectOffset": 0,
+                                    "NextObjectIndex": 0,
+                                    "Flags": 0
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            }
+        ]
+    },
+    "RdiBlock": {
+        "Data": null
+    }
+}

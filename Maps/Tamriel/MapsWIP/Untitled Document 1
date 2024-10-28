@@ -1,0 +1,16 @@
+altitude: 107
+latitude: 2188
+
+2188 - 2000 = 188
+188 / 16 = 11
+107 - 30 = 77
+77 / 2 = 38
+
+11 - 38 = -27 <- diffFactor
+
+spring = 81 - (-27) = 108 (18th of April)
+summer = 171 - (-27 / 2) = 184 (4th of July)
+fall = 261 + (-27 / 2) = 248 (8th of September)
+winter = 351 + (-27) = 324 (24th of November)
+
+

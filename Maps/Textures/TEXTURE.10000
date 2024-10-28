@@ -1,0 +1,39 @@
+{
+    "fileHeader": {
+        "Position": 0,
+        "RecordCount": 1,
+        "Name": "Town Map of",
+        "TextureWidth": 61,
+        "TextureHeight": 19
+    },
+    "recordHeader": [
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        }
+    ],
+    "record": [
+        {
+            "Position": 0,
+            "OffsetX": 0,
+            "OffsetY": 0,
+            "Width": 61,
+            "Height": 19,
+            "Compression": 0,
+            "RecordSize": 952,
+            "DataOffset": 0,
+            "IsNormal": false,
+            "FrameCount": 1,
+            "Unknown1": 0,
+            "ScaleX": 0,
+            "ScaleY": 0,
+            "Frames": [
+                null
+            ]
+        }
+    ]
+}

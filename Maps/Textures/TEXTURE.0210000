@@ -1,0 +1,185 @@
+{
+    "fileHeader": {
+        "Position": 0,
+        "RecordCount": 6,
+        "Name": "Male Redguard Desert White No-beard",
+        "TextureWidth": 901,
+        "TextureHeight": 506
+    },
+    "recordHeader": [
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        },
+        {
+            "Position": 0,
+            "Type1": 0,
+            "RecordPosition": 0,
+            "Type2": 0,
+            "Unknown1": 0,
+            "NullValue1": 0
+        }
+    ],
+    "record": [
+        {
+            "Position": 0,
+            "OffsetX": 0,
+            "OffsetY": 68,
+            "Width": 75,
+            "Height": 167,
+            "Compression": 0,
+            "RecordSize": 952,
+            "DataOffset": 0,
+            "IsNormal": false,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": -134,
+            "ScaleY": -134,
+            "Frames": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 42,
+            "OffsetY": 68,
+            "Width": 93,
+            "Height": 165,
+            "Compression": 0,
+            "RecordSize": 1820,
+            "DataOffset": 0,
+            "IsNormal": false,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": -134,
+            "ScaleY": -134,
+            "Frames": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 106,
+            "OffsetY": 68,
+            "Width": 101,
+            "Height": 165,
+            "Compression": 0,
+            "RecordSize": 6583,
+            "DataOffset": 0,
+            "IsNormal": false,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": -134,
+            "ScaleY": -134,
+            "Frames": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 201,
+            "OffsetY": 68,
+            "Width": 92,
+            "Height": 165,
+            "Compression": 0,
+            "RecordSize": 1540,
+            "DataOffset": 0,
+            "IsNormal": false,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": -134,
+            "ScaleY": -134,
+            "Frames": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 201,
+            "OffsetY": 68,
+            "Width": 74,
+            "Height": 164,
+            "Compression": 0,
+            "RecordSize": 1540,
+            "DataOffset": 0,
+            "IsNormal": false,
+            "FrameCount": 4,
+            "Unknown1": 0,
+            "ScaleX": -134,
+            "ScaleY": -134,
+            "Frames": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "Position": 0,
+            "OffsetX": 201,
+            "OffsetY": 68,
+            "Width": 73,
+            "Height": 165,
+            "Compression": 0,
+            "RecordSize": 1540,
+            "DataOffset": 0,
+            "IsNormal": false,
+            "FrameCount": 2,
+            "Unknown1": 0,
+            "ScaleX": -134,
+            "ScaleY": -134,
+            "Frames": [
+                null,
+                null
+            ]
+        }
+    ]
+}

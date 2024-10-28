@@ -1,0 +1,140 @@
+CAST AA	00	Medium Castle
+	01	Medium Castle
+	02	Medium Castle - siege - ruins
+	03	Large Castle - siege
+	04	Large Castle - siege
+	05	Large Castle
+	06	Small Castle - ruins
+	07	Small Castle - siege
+	08	Small Castle - ruins
+	09	Small Castle
+	10	Small Ruins
+	11	Medium Ruins - tower				== CARNAA01
+	12	Medium Ruins	(small)				== CARNAA02
+	13	Medium Ruins
+	14	Medium Ruins	(small)				== CARNAA04
+	15	Large Ruins	(medium)			== CARNAA05
+	16	Medium Ruins - tower - cave	(large)		== CARNAA06
+	17	Medium Ruins
+	18	Small Ruins
+	19	Small Ruins
+	20	Medium Ruins - tower
+	21	Small Ruins - tower
+	22	Medium Fortress - tower - ruins	(small)
+	23	Large Ruins - tower
+	24	Medium Fortress - ruins				== CARNAA14
+	25	Medium Castle - tower - ruins	(small)		== CARNAA15
+	26	Medium Ruins - tower				== CARNAA16
+	27	Small Ruins - tower
+	28	Medium Ruins - tower	(small)
+	29	Small Castle - ruins *or* Small Ruins - tower
+	30	Small Ruins - tower - cave
+	31	Small Ruins - cave
+	32	Small Ruins
+	33	Small Fortress - ruins - cave
+	34	Small Castle - ruins - tower
+	
+CUST AA	00	Daggerfall Houses
+	01
+	02	
+	03
+	04
+	05	Daggerfall Castle
+	06	Direnni Tower
+	07	Unknown Fortress
+	08	Lysandus Tomb
+	09	Orsinium Stronghold
+	10	Scourg Barrow
+	19	Shedungent
+	29	Woodborne Hall
+	30	Generic Cave entrance
+	34	Park and benches
+	35	
+	36
+	42	Wayrest city parts
+	43
+	44
+	45	Wayrest Palace
+	46	Wayrest city parts
+	54
+	55
+	56
+     GA 00	Sentinel City parts
+     	01
+     	02
+     	03
+     	04
+     	05
+     	06
+     	07
+     	08
+     	09
+     	10
+     	11
+     	12
+     	13
+     	14
+     	15
+     	16
+     	17
+     	18
+     	19
+     	20
+     	21	Sentinel Palace
+     	22	Sentinel City parts
+     	23
+     	24
+     	25
+     	26
+     	27
+     	28
+     	29
+     	30
+     	31
+     	32
+     	33
+     	34
+     	35
+     	
+DUNG AA 00	Standing Stone
+	01	Sawed Tree
+	02	Cave Entrance - 2 trees - bushes
+	03	Cave Entrance - 3 trees - bushes
+	04	Cave Entrance - many trees
+	05	Cave Entrance - 4 trees
+	06	Cave Entrance - 6 trees
+	07	Cave Entrance - trees - water
+	08	Cave Entrance - trees - water
+	09	Cave Entrance - 3 trees
+	10	Cave Entrance - 5 trees
+	11	Cave Entrance - trees - water
+	12	Cave Entrance - 2 trees
+	13	Cave Entrance - trees - water
+	14	Cave Entrance - trees - water (a little)
+	15	Cave Entrance - trees - water
+	16	Cave Entrance - trees - water
+	17	Cave Entrance - trees - water
+	18	Cave Entrance - 6 trees
+	
+	
+Aviaries/Aeries/Roosts/Coops/Nests (Harpies)-> DUNGAA01.RMB
+Nests (not harpies)-> DUNGAA01-DUNGAA18
+Excavations/Mines/Lodes/Barrows/Caverns/Caves/Tunnels/Holes/Pits/Hollows/Grottos/Lairs-> DUNGAA02-DUNGAA018
+Webs-> DUNGAA02-DUNGAA18, DUNGAA01.RMB
+Haunts/Houses-> CARNAA
+Assemblies/Councils/Communities/Convocations/Gatherings/Convergences-> CARNAA, DUNGAA02-DUNGAA18, RUINAA, DUNGAA01.RMB
+Cultuses/Cabals/Covens/Cults/Circles/Conclaves/Traditions-> DUNGAA, RUINAA
+Laboratories-> DUNGAA, RUINAA
+Castles/Citadels/Holds/Guards/Towers/Forts-> CASTAA00-CASTAA09, 
+Tombs/Crypts/Sepulchers/Vaults-> GRVEAS
+Cairns-> DUNGAA00
+Prisons/Asylums/Geols/Houses of Correction/Dungeons-> CASTAA00, 01, 05, 06, 08, 09
+Ruins of Castles/Citadels/Holds/Guards/Towers/Forts-> CARNAA
+Ruins of villages-> RUINAA
+Cloisters/Monasteries/Cathedrals/Temples/Abbeys/Academies/Friaries/Hermitages/Manses/Minsters/Rectories/Convents/Shrines-> RUINAA
+
+
+VERY IMPORTANT TO TAKE INTO CONSIDERATION:
+
+Dungeon Name ---> RMB & most RDBs
+Dungeon Type ---> some RDBs
