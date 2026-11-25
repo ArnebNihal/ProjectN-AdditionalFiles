@@ -1,0 +1,40 @@
+{
+    "Prefix": [
+        "Kerth",
+        "Perth",
+        "Cyd",
+        "Mirth",
+        "Wyr",
+        "Myr",
+        "Mar",
+        "Kas",
+        "Eth",
+        "Wen",
+        "Cost",
+        "Aend",
+        "Caen"
+    ],
+    "Suffix": [
+        "th",
+        "sten",
+        "dan",
+        "ch",
+        "dach",
+        "doch",
+        "tar",
+        "tav",
+        "en",
+        "cav",
+        "cos",
+        "le"
+    ],
+    "Extra": [
+        "a",
+        "s",
+        "na",
+        "wa",
+        "da",
+        "an",
+        "ma"
+    ]
+}
