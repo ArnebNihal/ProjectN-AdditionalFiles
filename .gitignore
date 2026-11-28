@@ -1,0 +1,3 @@
+# Unity generates .meta files for files under Assets (including this data pack).
+# The game reads these files directly at runtime, so the .meta files are not needed.
+*.meta
